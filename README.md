@@ -1,2 +1,2 @@
 # Food-making
-build using html,css
+Build using HTML,CSS.
